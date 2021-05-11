@@ -11,3 +11,8 @@ Det først jeg laver er et connect script, så jeg er fri for at copy-paste hver
 
 Vi kan prøve at eksekvere filen:
 ![First prompt](https://raw.githubusercontent.com/larsbopark/DCC_2021/main/images/the_game1.png)
+Så vi kan se at vi skal finde en bestem værdi. Vi kan prøve at skrive noget abritræt, i dette tilfælde er det: **heretolearn**
+
+![Second promt](https://raw.githubusercontent.com/larsbopark/DCC_2021/main/images/the_game2.png)
+
+Hvilket ser ud til ikke føre nogle steder, da programmet returnere og lukker.

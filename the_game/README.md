@@ -10,4 +10,4 @@ Det først jeg laver er et connect script, så jeg er fri for at copy-paste hver
     nc the-game.hkn 4242
 
 Vi kan prøve at eksekvere filen:
-![First prompt](../images/the_game.png)
+![First prompt](https://raw.githubusercontent.com/larsbopark/DCC_2021/main/images/the_game1.png)

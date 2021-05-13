@@ -14,14 +14,14 @@ Det først jeg laver er et connect script, så jeg er fri for at copy-paste hver
 
 Vi kan prøve at eksekvere filen:
 ![First prompt](https://raw.githubusercontent.com/larsbopark/DCC_2021/main/images/the_game1.png)
-Så vi kan se at vi skal finde en bestem værdi. Vi kan prøve at skrive noget abritræt, i dette tilfælde er det: **heretolearn**
+Vi kan se at vi skal finde en bestemt værdi. Vi kan prøve at skrive noget abritræt, i dette tilfælde er det: **heretolearn**
 
 ![Second promt](https://raw.githubusercontent.com/larsbopark/DCC_2021/main/images/the_game2.png)
 
-Hvilket ser ud til ikke føre nogle steder, da programmet returnere og lukker.
+Hvilket ser ud til ikke at føre nogle steder, da programmet returnere og lukker.
 
 ## Neddykning
-Det første jeg som regel prøver er at kigge på hvilket strenge som kan udskrives, og hvis flaget ligge i programmet, men i dette tilfælde ved vi at vi skal have en 'shell'. Så vi åbner filen med[Cutter](https://cutter.re/). Cutter tilbyder en feature hvor at diverse functioner bliver oversat til C kode, hvilket gør assembly nemmere at forstå. Det første som altid er interessant at kigge på er selvfølgelig at kigge på `main()`.
+Det første jeg som regel prøver er at kigge på hvilket strenge som kan udskrives, hvis flaget ligger i programmet som en streng er den hurtig fundet, men i dette tilfælde ved vi at vi skal have en 'shell'. Så vi åbner filen med[Cutter](https://cutter.re/). Cutter tilbyder en feature hvor at diverse functioner bliver oversat til C kode, hvilket gør assembly nemmere at forstå. Det første som altid er interessant at kigge på er selvfølgelig at kigge på `main()`.
 
 ![main()](https://raw.githubusercontent.com/larsbopark/DCC_2021/main/images/the_game3.png)
 
